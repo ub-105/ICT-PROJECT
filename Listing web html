@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Book Haven | Books</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+<h1>Book Haven</h1>
+<nav>
+<a href="index.html">Home</a>
+<a class="active" href="books.html">Books</a>
+<a href="contact.html">Contact</a>
+</nav>
+</header>
+
+
+<section class="book-grid">
+<div class="book-card">
+<img src="https://images.unsplash.com/photo-1524995997946-a1c2e315a42f" alt="Book Cover">
+<h3>The Silent Sea</h3>
+<p>Mystery | Fiction</p>
+<button>Buy Now</button>
+</div>
+
+
+<div class="book-card">
+<img src="https://images.unsplash.com/photo-1544947950-fa07a98d237f" alt="Book Cover">
+<h3>Beyond the Stars</h3>
+<p>Sci‑Fi | Adventure</p>
+<button>Buy Now</button>
+</div>
+
+
+<div class="book-card">
+<img src="https://images.unsplash.com/photo-1512820790803-83ca734da794" alt="Book Cover">
+<h3>Mindset Mastery</h3>
+<p>Self‑Help | Motivation</p>
+<button>Buy Now</button>
+</div>
+</section>
+
+
+<footer>
+<p>© 2025 Book Haven. All Rights Reserved.</p>
+</footer>
+</body>
+</html>
